@@ -85,30 +85,6 @@ This allows teachers to record attendance through short voice clips in addition 
 
 ---
 
-## 🖼️ Application Screenshots
-
-### 👨‍🏫 Teacher Workflow
-
-| Teacher Login                                                   | Teacher Dashboard                                                       | Create Subject                                                           |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| ![Teacher Login](static/img/demo/snap-teacher-flow-1-login.png) | ![Teacher Dashboard](static/img/demo/snap-teacher-flow-2-dashboard.png) | ![Create Subject](static/img/demo/snap-teacher-flow-3-create-course.png) |
-
-| Share Subject                                                              | Photo Attendance                                                                | Voice Attendance                                                                |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| ![Share Subject](static/img/demo/snap-teacher-flow-4-share-qr-or-link.png) | ![Photo Attendance](static/img/demo/snap-teacher-flow-5.2-photo-attendance.png) | ![Voice Attendance](static/img/demo/snap-teacher-flow-5.1-voice-attendance.png) |
-
-| Attendance Records                                                                |
-| --------------------------------------------------------------------------------- |
-| ![Attendance Records](static/img/demo/snap-teacher-flow-5-see-stored-records.png) |
-
-### 👨‍🎓 Student Workflow
-
-| FaceID Login                                                   | Subject Enrollment                                                    | Student Dashboard                                                       |
-| -------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| ![FaceID Login](static/img/demo/snap-student-flow-1-login.png) | ![Subject Enrollment](static/img/demo/snap-student-flow-2-enroll.png) | ![Student Dashboard](static/img/demo/snap-student-flow-3-dashboard.png) |
-
----
-
 ## 🛠️ Technology Stack
 
 | Layer                     | Technologies                    |
