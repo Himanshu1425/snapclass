@@ -63,7 +63,7 @@ def student_dashboard():
     for i, sub_node in enumerate(subjects):
         sub = sub_node['subjects']
         sid = sub['subject_id']
-        st.write("DEBUG:", i, sid)
+       
 
 
         stats = stats_map.get(sid,{"total":0, "attended": 0} )
